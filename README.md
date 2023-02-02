@@ -1,6 +1,6 @@
 # Mentionable
 
-An implementation of [Webmention], a web standard for mentions and conversyions
+An implementation of [Webmention], a web standard for mentions and conversations
 across the web. With mentionable, people can reply by sending webmentions for:
 
 [Webmention]: <https://www.w3.org/TR/webmention/> "Webmention W3C Recommendation"
